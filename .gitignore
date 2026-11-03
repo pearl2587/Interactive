@@ -1,0 +1,8 @@
+@"
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+"@ | Set-Content -Encoding utf8 .gitignore
